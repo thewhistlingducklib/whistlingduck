@@ -1,1 +1,1 @@
-::: analyzers.Maximum
+::: whistlingduck.analyzers.Maximum

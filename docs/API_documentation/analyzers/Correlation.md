@@ -1,1 +1,1 @@
-::: analyzers.Correlation
+::: whistlingduck.analyzers.Correlation

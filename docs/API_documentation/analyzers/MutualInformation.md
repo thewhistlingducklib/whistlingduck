@@ -1,1 +1,1 @@
-::: analyzers.MutualInformation
+::: whistlingduck.analyzers.MutualInformation

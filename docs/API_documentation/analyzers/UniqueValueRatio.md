@@ -1,1 +1,1 @@
-::: analyzers.UniqueValueRatio
+::: whistlingduck.analyzers.UniqueValueRatio

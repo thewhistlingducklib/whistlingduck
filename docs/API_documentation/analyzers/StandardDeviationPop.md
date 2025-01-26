@@ -1,2 +1,2 @@
-::: analyzers.StandardDeviationPop
+::: whistlingduck.analyzers.StandardDeviationPop
 

@@ -1,1 +1,1 @@
-::: analyzers.MaxLength
+::: whistlingduck.analyzers.MaxLength

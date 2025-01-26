@@ -1,3 +1,3 @@
-::: analyzers.Uniqueness
+::: whistlingduck.analyzers.Uniqueness
 
 

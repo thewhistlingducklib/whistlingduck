@@ -1,1 +1,1 @@
-::: analyzers.Entropy
+::: whistlingduck.analyzers.Entropy

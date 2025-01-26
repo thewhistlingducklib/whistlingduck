@@ -1,1 +1,1 @@
-::: analyzers.PatternMatch
+::: whistlingduck.analyzers.PatternMatch

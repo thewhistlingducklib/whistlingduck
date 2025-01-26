@@ -1,2 +1,2 @@
-::: analyzers.Distinctness
+::: whistlingduck.analyzers.Distinctness
 

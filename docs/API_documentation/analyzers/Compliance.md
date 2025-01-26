@@ -1,1 +1,1 @@
-::: analyzers.Compliance
+::: whistlingduck.analyzers.Compliance

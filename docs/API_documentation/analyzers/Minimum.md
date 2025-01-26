@@ -1,1 +1,1 @@
-::: analyzers.Minimum
+::: whistlingduck.analyzers.Minimum

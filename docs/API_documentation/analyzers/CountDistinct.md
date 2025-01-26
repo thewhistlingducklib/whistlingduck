@@ -1,3 +1,3 @@
-::: analyzers.CountDistinct
+::: whistlingduck.analyzers.CountDistinct
 
 

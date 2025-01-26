@@ -1,2 +1,2 @@
-::: analyzers.RatioOfSums
+::: whistlingduck.analyzers.RatioOfSums
 

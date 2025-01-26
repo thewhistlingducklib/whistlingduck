@@ -1,1 +1,1 @@
-::: analyzers.MinLength
+::: whistlingduck.analyzers.MinLength

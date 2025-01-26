@@ -1,1 +1,1 @@
-::: analyzers.Completeness
+::: whistlingduck.analyzers.Completeness

@@ -1,1 +1,1 @@
-::: analyzers.ApproxQuantile
+::: whistlingduck.analyzers.ApproxQuantile
