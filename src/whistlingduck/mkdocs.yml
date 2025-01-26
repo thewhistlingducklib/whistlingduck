@@ -1,4 +1,7 @@
 site_name: Whistling Duck
+site_description: Python library in DuckDB for data quality logging & checks
+strict: true
+site_url: https://thewhistlingducklib.github.io/whistlingduck/
 theme:
   name: material
   features:

@@ -9,7 +9,7 @@
 
 # Whistling Duck
 
-Whistling Duck is a Python library written in DuckDB for data quality logging & checks, it is created to make data quality implementation easy.
+Whistling Duck is a Python library written in DuckDB for data quality logging & checks, it is created to make data quality implementation easy. [Detailed Documentation](https://thewhistlingducklib.github.io/whistlingduck/)
 
 ## Why Whistling Duck?
 
@@ -36,8 +36,10 @@ pip install whistlingduck
 
 ## Contributions
 
-Contributions are veru 
+Looking forward to contributions and suggestions! Contributions are very much welcome - feel free to open pull requests, suggest improvements, or start discussions. We aim to keep dependencies minimal to maintain simplicity and reliability. Your input helps make this project better.
 
+## Discussions
+For any suggestions, questions, ideas, please use GitHub Discussions.
 
 ### Contact 
 Email: whistlingducklib@gmail.com
