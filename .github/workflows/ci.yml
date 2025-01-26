@@ -25,9 +25,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-        run: |
-          uv pip install mkdocs>=1.6.1
-          uv pip install mkdocs-material>=9.5.50
-          uv pip install mkdocs-material[imaging]
-          uv pip install mkdocstrings-python
+      - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
