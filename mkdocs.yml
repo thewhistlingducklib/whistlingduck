@@ -41,6 +41,7 @@ plugins:
 - mkdocstrings:
     handlers:
       python:
+        paths: [src] # Add this line
         options:
           docstring_style: google
 markdown_extensions:
